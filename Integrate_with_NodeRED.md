@@ -40,9 +40,12 @@ Open the UI http://xxx.xxx.xxx.xxx:1880/ui
    ![image-20200402103854834](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/noderedimage-20200402103854834.png)
 
 
-## Reference
+## 4.Reference
+
 1. [API reference](https://www.iammeter.com/doc/iammeter/integrate-with-PVOutput.html)
+
 2. [integrated in third-party server](https://www.iammeter.com/doc/iammeter/integrate-with-thirdparty-server.html)
+
 3. [FAQ](https://www.iammeter.com/doc/iammeter/FAQ.html)
 
 
