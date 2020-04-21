@@ -1,12 +1,11 @@
-## Introduction
+## 1.Introduction
+ioBroker is an IoT platform (Fog computing). It has ability to manage your IoT system as one intelligent, robust project. Our Wi-Fi energy meter (WEM3080/WEM3080T) can be integrated with ioBroker system.
 
 
-
-#### 1.ioBroker settings
-
+## 2.ioBroker settings
  
 
-1. 添加parser。
+### 1.1 Add parser
 
    ![image-20200416170803091](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416170803091.png) 
 
@@ -14,9 +13,11 @@
 
    ​		 
 
-2. 添加完成后配置parser:(for example your meter IP is 192.168.15.60)
+### 1.2 Configure parser
 
-EMW3080/EMW3162:
+For example your meter IP is 192.168.15.60,
+
+**WEM3080:**
 
 	Name				URL or file name					RegEx							Item	Type	Unit	Interval
 	emw3080_voltage			http://admin:admin@192.168.15.60/monitorjson	\[(\d+\.?\d+?),\d+\.?\d+?,\d+\.?\d+?,\d+\.?\d+?,\d+\.?\d+?\]	0	number	V	60000
@@ -25,7 +26,7 @@ EMW3080/EMW3162:
 	emw3080_ImportEnergy		http://admin:admin@192.168.15.60/monitorjson	\[\d+\.?\d+?,\d+\.?\d+?,\d+\.?\d+?,(\d+\.?\d+?),\d+\.?\d+?\]	0	number	kWh	60000
 	emw3080_exportgrid		http://admin:admin@192.168.15.60/monitorjson	\[\d+\.?\d+?,\d+\.?\d+?,\d+\.?\d+?,\d+\.?\d+?,(\d+\.?\d+?)\]	0	number	kWh	60000
 
-EMW3080T:	
+**WEM3080T:**	
 
 	Name:	emw3080t_voltage_a			
 	URL or file name:	http://admin:admin@192.168.15.60/monitorjson	
@@ -150,27 +151,26 @@ EMW3080T:
 
 
 ![image-20200417124300352](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200417124102227.png)
+
+
 ![image-20200416172701159](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416172701159.png)
 
-​			 
-
-​		 
-
-3. Instances -- parser.0 -- start :
+	 
+### 1.3 Instances -- parser.0 -- start :
 
    ![image-20200416171820252](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokeriobrokerimage-20200416171820252.png)
 
-4. Objects -- parser.0: 
+### 1.4 Objects -- parser.0: 
 
-   ​	![image-20200416174124401](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416174124401.png) 
-
- 
-
-#### 2.ioBroker display(Visualisation)
+   	![image-20200416174124401](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416174124401.png) 
 
  
 
-1. Adapters -- Visualisation -- +.
+## 3.ioBroker display(Visualisation)
+
+ 
+
+### 3.1 Adapters -- Visualisation -- +.
 
    ![image-20200416174410099](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416174410099.png) 
 
@@ -178,7 +178,7 @@ EMW3080T:
 
    ![image-20200416175115028](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416175115028.png)
 
-2. http://192.168.12.194:8082/vis/edit.html?main#DemoView.
+### 3.2 http://192.168.12.194:8082/vis/edit.html?main#DemoView.
 
    ![image-20200416180640613](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416180640613.png) 
    
@@ -204,7 +204,13 @@ or you can import widgets:
 
 ![image-20200416183503571](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416183503571.png)
 
- 
+ ## 4.Reference
+
+1. [API reference](https://www.iammeter.com/doc/iammeter/integrate-with-PVOutput.html)
+
+2. [integrated in third-party server](https://www.iammeter.com/doc/iammeter/integrate-with-thirdparty-server.html)
+
+3. [FAQ](https://www.iammeter.com/doc/iammeter/FAQ.html)
 
  
 
