@@ -10,8 +10,7 @@ ioBroker is an IoT platform (Fog computing). It has ability to manage your IoT s
    ![image-20200416170803091](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416170803091.png) 
 
    ![image-20200416170901638](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416170901638.png)
-
-   ​		 
+		 
 
 ### 1.2 Configure parser
 
@@ -162,7 +161,7 @@ For example your meter IP is 192.168.15.60,
 
 ### 1.4 Objects -- parser.0: 
 
-   	![image-20200416174124401](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416174124401.png) 
+   ![image-20200416174124401](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416174124401.png) 
 
  
 
@@ -178,11 +177,11 @@ For example your meter IP is 192.168.15.60,
 
    ![image-20200416175115028](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416175115028.png)
 
-### 3.2 http://192.168.12.194:8082/vis/edit.html?main#DemoView.
+### 3.2 http://192.168.12.194:8082/vis/edit.html?main#DemoView
 
    ![image-20200416180640613](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416180640613.png) 
    
-    ![image-20200416181409670](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416181409670.png)
+   ![image-20200416181409670](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416181409670.png)
    
    ![image-20200416182221599](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416182221599.png)
    
