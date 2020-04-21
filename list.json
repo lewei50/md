@@ -394,6 +394,15 @@
         "Keywords": "WiFi Power Monitor, WiFi Power Meter, Energy Monitor WiFi, Electricity Monitor WiFi, Energy Cost Monitor, Solar System Monitoring, Electricity Meter applicable in Solar System",
         "Description": "Introduce the how to integrate the WiFi Energy Meter's data to NodeRED"
         }
+        ,
+        {
+        "UrlName": "iobroker",
+        "SummaryTitle": "10.4 Integrate with ioBroker",
+        "Path": "Integrate_with_ioBroker",
+        "Title": "Integrate with ioBroker",
+        "Keywords": "WiFi Power Monitor, WiFi Power Meter, Energy Monitor WiFi, Electricity Monitor WiFi, Energy Cost Monitor, Solar System Monitoring, Electricity Meter applicable in Solar System",
+        "Description": "Introduce the how to integrate the WiFi Energy Meter's data to ioBroker"
+        }
       ]
     },
     {
