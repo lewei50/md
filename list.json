@@ -388,7 +388,7 @@
         ,
         {
         "UrlName": "nodered",
-        "SummaryTitle": "10.3 Integrate with NodeRED",
+        "SummaryTitle": "10.3 Integrate with Node-RED",
         "Path": "Integrate_with_NodeRED",
         "Title": "Integrate with NodeRED",
         "Keywords": "WiFi Power Monitor, WiFi Power Meter, Energy Monitor WiFi, Electricity Monitor WiFi, Energy Cost Monitor, Solar System Monitoring, Electricity Meter applicable in Solar System",
