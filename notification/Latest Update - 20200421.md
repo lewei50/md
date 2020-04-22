@@ -1,3 +1,5 @@
+[toc]
+
 # Latest Update - 20200421
 
 Hope this email finds your well, this email is about some upgrading of our product and system.
@@ -6,9 +8,11 @@ Hope this email finds your well, this email is about some upgrading of our produ
 
 ## Home Automation
 
-We have integrated our Wi-Fi energy meters to some famous Home Automation platform recently.
+We have integrated our Wi-Fi energy meters(WEM3080 WEM3080T) to some famous Home Automation platform recently.
 
 
+
+[home assistant](https://www.home-assistant.io/integrations/iammeter/)
 
 
 
@@ -20,6 +24,11 @@ We have integrated our Wi-Fi energy meters to some famous Home Automation platfo
 
 
 
+
+## put our document on Github
+
+We have put our document on Github:[https://github.com/lewei50/md](https://github.com/lewei50/md)
+If you have some interesting application with our product or system and make a document, you can post the PR to us.
 
 
 
