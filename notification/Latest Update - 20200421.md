@@ -5,10 +5,10 @@
 We have integrated our WiFi energy meters to some online Home Automation cloud.
 
 
-| [openhab](https://www.iammeter.com/doc/iammeter/openhab.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/openhabwps8.jpg) |
+| [openhab](https://www.iammeter.com/doc/iammeter/openhab.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/openhabwps8.jpg?x-oss-process=style/he600) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Node-Red](https://www.iammeter.com/doc/iammeter/nodered.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/noderedimage-20200402103854834.png) |
-| [iobroker](https://www.iammeter.com/doc/iammeter/iobroker.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416183503571.png) |
+| [Node-Red](https://www.iammeter.com/doc/iammeter/nodered.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/noderedimage-20200402103854834.png?x-oss-process=style/he600) |
+| [iobroker](https://www.iammeter.com/doc/iammeter/iobroker.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416183503571.png?x-oss-process=style/he600) |
 
 
 
