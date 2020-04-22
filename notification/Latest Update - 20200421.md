@@ -1,22 +1,25 @@
 # Latest Update - 20200421
 
+Hope this email finds your well, this email is about some upgrading of our product and system.
+
+
+
 ## Home Automation
 
-We have integrated our WiFi energy meters to some online Home Automation cloud.
+We have integrated our Wi-Fi energy meters to some famous Home Automation platform recently.
 
 
-| [openhab](https://www.iammeter.com/doc/iammeter/openhab.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/openhabwps8.jpg) |
+
+
+
+| [openhab](https://www.iammeter.com/doc/iammeter/openhab.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/openhabwps8.jpg?x-oss-process=style/he600) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Node-Red](https://www.iammeter.com/doc/iammeter/nodered.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/noderedimage-20200402103854834.png) |
-| [iobroker](https://www.iammeter.com/doc/iammeter/iobroker.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416183503571.png) |
+| [Node-Red](https://www.iammeter.com/doc/iammeter/nodered.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/noderedimage-20200402103854834.png?x-oss-process=style/he600) |
+| [iobroker](https://www.iammeter.com/doc/iammeter/iobroker.html) | ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/iammeter/iobrokerimage-20200416183503571.png?x-oss-process=style/he600) |
 
 
 
-##  Feedback to us
-Now it is very easy to communicate with us by the new "feedback" function in Iammeter.
-No matter what you want to talk to us, welcome to send the message to us directly here.
 
-![image-20200421154413255](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/l/image-20200421154413255.png)
 
 
 
